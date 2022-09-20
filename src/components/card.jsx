@@ -14,7 +14,7 @@ const Card = ({ id, price, src, title, category, getDetails }) => {
         />
       </span>
       <div className='mt-4'>
-        <h3 className='text-gray-500 text-xs tracking-widest title-font mb-1'>
+        <h3 className='uppercase text-gray-500 text-xs tracking-widest title-font mb-1'>
           {category}
         </h3>
         <h2 className='text-gray-900 title-font text-lg font-medium'>

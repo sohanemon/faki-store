@@ -17,7 +17,7 @@ const Header = () => {
             <span className='ml-3 text-xl'>Faki Store</span>
           </a>
           <nav className='md:ml-auto md:mr-auto flex flex-wrap items-center text-base justify-center font-semibold '>
-            <a href='emon' className='mr-5  hover:text-gray-900'>
+            <a href='/' className='mr-5  hover:text-gray-900'>
               Home
             </a>
             <a href='emon' className='mr-5  hover:text-gray-900'>
