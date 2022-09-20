@@ -4,7 +4,7 @@ const Modal = ({ setOpenModal, setShowFooter, product }) => {
   const [display, setDisplay] = useState(false);
   setTimeout(() => {
     setDisplay(true);
-  }, 1000);
+  }, 500);
   if (display)
     return (
       <>
