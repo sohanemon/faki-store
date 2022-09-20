@@ -4,7 +4,7 @@ const Header = () => {
       <header className='text-gray-600 body-font shadow-md sticky z-50 top-0 bg-white'>
         <div className='container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center'>
           <a
-            href='emon'
+            href='/'
             className='flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0'
           >
             <svg
@@ -20,13 +20,13 @@ const Header = () => {
             <a href='/' className='mr-5  hover:text-gray-900'>
               Home
             </a>
-            <a href='emon' className='mr-5  hover:text-gray-900'>
+            <a href='/' className='mr-5  hover:text-gray-900'>
               Category
             </a>
-            <a href='emon' className='mr-5  hover:text-gray-900'>
+            <a href='/' className='mr-5  hover:text-gray-900'>
               Contact
             </a>
-            <a href='emon' className='mr-5  hover:text-gray-900'>
+            <a href='/' className='mr-5  hover:text-gray-900'>
               About
             </a>
           </nav>
